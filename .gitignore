@@ -5,6 +5,7 @@
 dump.rdb
 favicon.ico:Zone.Identifier
 **/.vscode/
+command.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

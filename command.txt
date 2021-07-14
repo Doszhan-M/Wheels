@@ -1,6 +1,0 @@
-pip freeze > requirements.txt
-pip install --upgrade pip
-pip freeze 
-
-django-admin startproject Wheels
-django-admin startapp Main

@@ -34,7 +34,7 @@ header {
 .nav_panel_row {
     display: grid;
     grid-template-columns: 11% 60% 30%;
-    min-width: 82%;
+    max-width: 82%;
     padding-left: 1%;
 }
 

@@ -59,7 +59,7 @@
     z-index: -1;
     margin: 0%;
     height: 500px;
-    min-width: 1220px;
+    max-width: 1220px;
     transition: opacity .7s ease;
     opacity: 1;
 }

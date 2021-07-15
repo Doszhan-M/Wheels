@@ -16,8 +16,8 @@ window.addEventListener('load', slider => {
         autoImg.style.opacity = '0';
         sizeImg[0].style.opacity = '1';
         sizeImg[1].style.opacity = '1';
-        sizeImg[0].style.transform = 'translateY(+480px)';
-        sizeImg[1].style.transform = 'translateY(+480px)';
+        sizeImg[0].style.transform = 'translateY(+410px)';
+        sizeImg[1].style.transform = 'translateY(+410px)';
         autoTitle.style.display = 'none';
         sizeTitle.style.display = 'block';
 

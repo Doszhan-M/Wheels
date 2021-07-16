@@ -58,7 +58,7 @@
     position: absolute;
     z-index: -1;
     margin: 0%;
-    height: 70%;
+    height: 430px;
     width: 82%;
     transition: opacity .7s ease;
     opacity: 1;
